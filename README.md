@@ -58,7 +58,7 @@ AIPulse is a modern web application that helps you discover, organize, and manag
 ## 📦 Getting Started
 
 ### Use the Live Version
-Visit [aipulse.dev](https://aipulse.vercel.app) to use AIPulse directly in your browser.
+Visit [aipulse.dev](https://aipulse-tool.vercel.app) to use AIPulse directly in your browser.
 
 ### Run Locally
 
@@ -111,7 +111,7 @@ AIPulse includes an intelligent AI assistant that can help you:
 
 - **Twitter/X**: [@aipulse_1](https://twitter.com/aipulse_1)
 - **GitHub**: [swiftpersona2-cell](https://github.com/swiftpersona2-cell)
-- **Website**: [aipulse.dev](https://aipulse.vercel.app)
+- **Website**: [aipulse.dev](https://aipulse-tool.vercel.app)
 
 ## 📄 License
 
